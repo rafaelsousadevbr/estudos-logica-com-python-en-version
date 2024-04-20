@@ -30,7 +30,7 @@ Caso contrário, vamos ver agora um passo a passo da instalação (depois irei a
 
 ------
 
-### Linguagem Pyton
+### Linguagem Phyton
 
 ##### Interpretador IDLE
 

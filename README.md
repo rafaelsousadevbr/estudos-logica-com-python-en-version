@@ -7,4 +7,4 @@ Este repositório tem como objetivo compartilhar um pouco dos meus estudos de l�
 2. [Estrutura de Dados](https://github.com/alinealien/estudos-logica-com-python/wiki/2.-Estrutura-de-Dados)
 3. [Programação Orientada a Objetos](https://github.com/alinealien/estudos-logica-com-python/wiki/3.-Programa%C3%A7%C3%A3o-Orientada-a-Objetos)
 
-Ah, também há diversos algoritmos de estudos com python na prática! ;-)
+Ah, também há diversos algoritmos de estudos com python na prática! Espero que o conteúdo ajude em sua jornada e estudos ;-)
